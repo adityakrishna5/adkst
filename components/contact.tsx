@@ -22,7 +22,7 @@ export function Contact() {
 
         <div className="mt-12 flex flex-col items-center justify-center gap-8 sm:flex-row sm:gap-12">
           <a
-            href="mailto:adityatechconsulting@gmail.com"
+            href="mailto:contactus@adkst.com"
             className="flex items-center gap-3 transition-colors hover:text-primary"
           >
             <div className="flex h-12 w-12 shrink-0 items-center justify-center rounded-lg bg-primary/10">
@@ -31,7 +31,7 @@ export function Contact() {
             <div className="text-left">
               <p className="text-sm font-medium text-foreground">Email</p>
               <p className="text-sm text-muted-foreground">
-                adityatechconsulting@gmail.com
+                contactus@adkst.com
               </p>
             </div>
           </a>
